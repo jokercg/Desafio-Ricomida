@@ -1,0 +1,16 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+  }
+  img {
+    width:100%;
+}
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    }
+    .card{
+        display: inline-block;
+        width: 30%;
+    }
+
